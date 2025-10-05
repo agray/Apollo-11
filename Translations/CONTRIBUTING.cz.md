@@ -20,6 +20,7 @@
 [Norsk][NO],
 [Polski][PL],
 [Português][PT_BR],
+[Svenska][SV],
 [tiếng Việt][VI],
 [Türkçe][TR],
 [Ελληνικά][GR],
@@ -54,6 +55,7 @@
 [NO]:CONTRIBUTING.no.md
 [PL]:CONTRIBUTING.pl.md
 [PT_BR]:CONTRIBUTING.pt_br.md
+[SV]:CONTRIBUTING.sv.md
 [TR]:CONTRIBUTING.tr.md
 [UK]:CONTRIBUTING.uk.md
 [VI]:CONTRIBUTING.vi.md
@@ -148,7 +150,7 @@ R0820
   - Dvě mezery pro nové věty.
   - Tři mezery pro odsazení.
 
-Napříkald následující kód:
+Například následující kód:
 
 ```plain
 	1)  FOO BAR BAZ QUX QUUX QUUZ. CORGE, GRAULT,

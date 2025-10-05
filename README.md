@@ -25,6 +25,7 @@
 [Polski][PL],
 [Português][PT_BR],
 [Română][RO],
+[Svenska][SV],
 [tiếng Việt][VI],
 [Türkçe][TR],
 [Ελληνικά][GR],
@@ -41,7 +42,8 @@
 [한국어][KO_KR],
 [日本語][JA],
 [正體中文][ZH_TW],
-[简体中文][ZH_CN]
+[简体中文][ZH_CN],
+[മലയാളം][ML]
 
 [AR]:Translations/README.ar.md
 [AS_IN]:Translations/README.as_in.md
@@ -74,12 +76,13 @@
 [PT_BR]:Translations/README.pt_br.md
 [RO]:Translations/README.ro.md
 [RU]:Translations/README.ru.md
+[SV]:Translations/README.sv.md
 [TR]:Translations/README.tr.md
 [UK]:Translations/README.uk.md
 [VI]:Translations/README.vi.md
 [ZH_CN]:Translations/README.zh_cn.md
 [ZH_TW]:Translations/README.zh_tw.md
-
+[ML]:Translations/README.ml.md
 Original Apollo 11 guidance computer (AGC) source code for Command Module (Comanche055) and Lunar Module (Luminary099). Digitized by the folks at [Virtual AGC][3] and [MIT Museum][4]. The goal is to be a repo for the original Apollo 11 source code. As such, PRs are welcome for any issues identified between the transcriptions in this repository and the original source scans for [Luminary 099][5] and [Comanche 055][6], as well as any files I may have missed.
 
 ## Contributing
